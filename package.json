@@ -4,7 +4,8 @@
   "description": "A customized footer component for use when building USU's Open edX frontend applications",
   "main": "dist/index.js",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "build": "make build",
@@ -24,14 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openedx/frontend-component-footer.git"
+    "url": "git+https://github.com/dipooktama/frontend-component-footer.git"
   },
   "author": "edX",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/openedx/frontend-component-footer/issues"
+    "url": "https://github.com/dipooktama/frontend-component-footer/issues"
   },
-  "homepage": "https://github.com/openedx/frontend-component-footer#readme",
+  "homepage": "https://github.com/dipooktama/frontend-component-footer#readme",
   "devDependencies": {
     "@edx/brand": "npm:@edx/brand-openedx@1.1.0",
     "@edx/frontend-build": "12.4.0",
