@@ -1,6 +1,6 @@
 {
   "name": "@dipooktama/frontend-component-footer",
-  "version": "1.0.0-semantically-released",
+  "version": "1.0.3-semantically-released",
   "description": "A customized footer component for use when building USU's Open edX frontend applications",
   "main": "dist/index.js",
   "publishConfig": {
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dipooktama/frontend-component-footer.git"
+    "url": "https://github.com/dipooktama/frontend-component-footer.git"
   },
   "author": "edX",
   "license": "AGPL-3.0",
