@@ -10,3 +10,4 @@ commitlint.config.js
 webpack.config.js
 **.test.js
 **tests
+.npmrc
